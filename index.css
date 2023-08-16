@@ -1,0 +1,40 @@
+.main{
+    background-image: url(../images/background.jpg);
+    background-repeat: no-repeat;
+    background-size:cover;
+}
+
+
+h2{
+    font-family: 'Montez',cursive
+    
+}
+
+span{
+    font-family: 'Montez', cursive;font-family: 'Ubuntu Mono', monospace;
+}
+
+.button1{
+    background: blue;
+    color:white;
+}
+
+.button2{
+    background: blue;
+    color:white;
+}
+
+
+.btnsort{
+    display: flex;
+    flex-direction: row-reverse;
+    align-items: flex-start;
+}
+
+.buttons{
+    display: flex;
+    padding-right: 10px;
+    flex-flow: row-reverse;
+    margin-top: -39px;
+}
+
