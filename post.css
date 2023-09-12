@@ -1,0 +1,154 @@
+.main2{
+    background-color: hsl(30, 100%, 93%);
+}
+
+h2{
+    font-family: 'Montez',cursive
+    
+}
+
+span{
+    font-family: 'Montez', cursive;font-family: 'Ubuntu Mono', monospace;
+}
+
+.button1{
+    background: blue;
+    color:white;
+}
+
+.button2{
+    background: blue;
+    color:white;
+}
+
+
+.btnsort{
+    display: flex;
+    flex-direction: row-reverse;
+    align-items: flex-start;
+}
+
+.buttons{
+    display: flex;
+    padding-right: 10px;
+    flex-flow: row-reverse;
+    margin-top: -39px;
+}
+
+.card-body{
+    background: lightgrey;
+    display: flex;
+    flex-direction: row;
+    padding:unset;
+}
+
+.card{
+    max-width: 30rem;
+    flex-direction: row;
+}
+
+
+.card{
+    box-shadow: grey 1px 8px 4px 1px;
+    max-width: 580px;
+    border-radius: 25px;
+}
+
+/* .card-text{
+    max-width: 60%;
+} */
+
+.maincarddiv{
+    display: grid;
+    grid-template-columns: auto auto;
+    justify-content: space-evenly;
+}
+
+
+h6{
+    color: grey;
+    display: flex;
+    justify-content: space-between;
+}
+
+.Posttitle{
+        display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 20px;
+}
+
+.Mainpost{
+    font-size: medium;
+    font-weight: 400;
+}
+
+.likebtn{
+    font-size: 15px;;
+    border: none;
+    background: #ff0000;
+    color: white;
+    font-family: 'Montez', cursive;
+    font-family: 'Ubuntu Mono', monospace;
+    padding: 2px;
+    width: 6%;
+    box-shadow: red 0px 0px 10px 0px
+}
+
+h5{
+    display: flex;
+    justify-content: space-between;
+    font-family: 'Montez', cursive;
+font-family: 'Ubuntu Mono', monospace;
+
+}
+
+.Editbtn{
+    font-size: 15px;;
+    border: none;
+    background: #ff0000;
+    color: white;
+    font-family: 'Montez', cursive;
+    font-family: 'Ubuntu Mono', monospace;
+    padding: 2px;
+    width: 6%;
+    box-shadow: red 0px 0px 10px 0px
+}
+
+.commentbtn{
+    font-size: 15px;;
+    border: none;
+    background: #ff0000;
+    color: white;
+    font-family: 'Montez', cursive;
+    font-family: 'Ubuntu Mono', monospace;
+    padding: 2px;
+    width: 6%;
+    box-shadow: red 0px 0px 10px 0px;
+    margin-top: 10px;
+}
+
+#likednumbers{
+    margin-top: 8px;
+    font-family: 'Montez', cursive;
+     font-family: 'Ubuntu Mono', monospace;
+     font-size: smaller;
+}
+
+.Savebtn{
+    font-size: 15px;;
+    border: none;
+    background: #ff0000;
+    color: white;
+    font-family: 'Montez', cursive;
+    font-family: 'Ubuntu Mono', monospace;
+    padding: 2px;
+    width: 6%;
+    box-shadow: red 0px 0px 10px 0px
+}
+
+#updatemessage2{
+    font-size: large;
+    font-weight: 300;
+}
+

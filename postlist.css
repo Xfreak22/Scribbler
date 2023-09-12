@@ -1,0 +1,72 @@
+.main2{
+    background-color: hsl(30, 100%, 93%);
+}
+
+h2{
+    font-family: 'Montez',cursive
+    
+}
+
+span{
+    font-family: 'Montez', cursive;font-family: 'Ubuntu Mono', monospace;
+}
+
+.button1{
+    background: blue;
+    color:white;
+}
+
+.button2{
+    background: blue;
+    color:white;
+}
+
+
+.btnsort{
+    display: flex;
+    flex-direction: row-reverse;
+    align-items: flex-start;
+}
+
+.buttons{
+    display: flex;
+    padding-right: 10px;
+    flex-flow: row-reverse;
+    margin-top: -39px;
+}
+
+.card-body{
+    background: lightgrey;
+    display: flex;
+    flex-direction: row;
+    padding:unset;
+}
+
+.card{
+    max-width: 30rem;
+    flex-direction: row;
+}
+
+
+.card{
+    box-shadow: grey 1px 8px 4px 1px;
+    max-width: 580px;
+    border-radius: 25px;
+}
+
+/* .card-text{
+    max-width: 60%;
+} */
+
+.maincarddiv{
+    display: grid;
+    grid-template-columns: auto auto;
+    justify-content: space-evenly;
+}
+
+
+h6{
+    color: grey;
+    display: flex;
+    justify-content: space-between;
+}
